@@ -1,0 +1,17 @@
+.auto_hidden {
+    position: absolute;
+    display: none;
+}
+.auto_show {
+    display: block;
+    border: 1px solid black;
+    position: absolute;
+}
+.auto_onmouseover {
+    color: #ffffff;
+    background: black;
+}
+.auto_onmouseout {
+    color: #000000;
+    background-color: #ffffff;
+}
